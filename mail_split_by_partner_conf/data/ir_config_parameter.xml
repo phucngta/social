@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- © 2017 Phuc NT
+     License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html). -->
 <odoo noupdate="1">
     <record id="config_parameter_mail_split" model="ir.config_parameter">
         <field name="key">default_mail_split_by_partner_conf</field>

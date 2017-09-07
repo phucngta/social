@@ -16,9 +16,6 @@
     'depends': [
         'mail',
     ],
-    'demo': [
-        'demo/demo.xml',
-    ],
     'data': [
         'views/mail_mail_view.xml',
         'views/mail_template_view.xml',
